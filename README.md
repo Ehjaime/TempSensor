@@ -1,2 +1,2 @@
-ThingSpeak-enc28j60
+Sensor 18B20
 ===================
